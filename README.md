@@ -1,2 +1,4 @@
 # Machine-Learning
-this include supervised and unsupervised machine learning.
+This include supervised and unsupervised machine learning.
+This include regression model and classification model.
+
